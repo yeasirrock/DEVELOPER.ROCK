@@ -166,3 +166,50 @@ section {
     padding: 8px 25px;
     border-radius: 50%;
 }
+
+.mid-1 img {
+    width: 70%;
+    height: 55%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+.mid-2 {
+    width: 90%;
+    height: 30%;
+}
+
+.mid-3 {
+    font-size: large;
+    width: 100%;
+}
+
+
+.best-web {
+    background-color: black;
+    color: aliceblue;
+    font-size: large;
+    height: 40px;
+    width: 30px;
+}
+
+.quality-1 {
+    background-color: blue;
+    width: 20%;
+
+}
+
+.quality-2 {
+    background-color: blue;
+    width: 27%;
+}
+
+.quality-3 {
+    background-color: blue;
+    width: 25%;
+}
+
+.se-2 {
+    display: flex;
+    margin-bottom: 90px;
+}
