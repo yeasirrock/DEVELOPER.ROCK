@@ -213,3 +213,56 @@ section {
     display: flex;
     margin-bottom: 90px;
 }
+
+.last-op {
+    font-size: 55px;
+    margin-bottom: 30%;
+    background-color: black;
+    color: white;
+    height: 30%;
+
+
+}
+
+
+
+
+.last-pm {
+    font-size: 50px;
+    color: rgb(36, 71, 2);
+    background-color: ;
+
+}
+
+.last-cm {
+    font-size: 50px;
+    color: rgb(7, 7, 90);
+}
+
+.flexible-continer {
+    display: flex;
+    margin-bottom: 150%;
+    font-size: large;
+
+    .last-oc {
+        box-shadow: 15px 10px 30px green;
+        width: 50%;
+        margin-left: 2%;
+        margin-right: 2%;
+        padding-left: 8%;
+        padding-right: 10%;
+        border-radius: 10px;
+        border: 10px solid
+    }
+
+    .last-ox {
+        border: 10px solid;
+
+        padding-left: 13%;
+        padding-right: 13%;
+        margin-left: 10%;
+        margin-right: 10%;
+        width: 70%;
+        border-radius: 20px;
+        box-shadow: 20px 20px 50px blue
+    }
